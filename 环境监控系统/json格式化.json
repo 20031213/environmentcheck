@@ -1,0 +1,132 @@
+[
+  {
+    'ApiTag': 'baiyewendu',
+    'Value': '24.8',
+    'RecordTime': '2024-10-14 11:55:33'
+  },
+  {
+    'ApiTag': 'baiyeshidu',
+    'Value': '62.7',
+    'RecordTime': '2024-10-14 11:55:34'
+  },
+  {
+    'ApiTag': 'guangshan',
+    'Value': 0,
+    'RecordTime': '2024-10-14 11:55:34'
+  },
+  {
+    'ApiTag': 'yanwu',
+    'Value': 0,
+    'RecordTime': '2024-10-14 11:55:30'
+  },
+  {
+    'ApiTag': 'xincheng',
+    'Value': 0,
+    'RecordTime': '2024-10-14 11:55:31'
+  },
+  {
+    'ApiTag': 'jiguang',
+    'Value': 0,
+    'RecordTime': '2024-10-14 11:55:31'
+  },
+  {
+    'ApiTag': 'PM',
+    'Value': 84,
+    'RecordTime': '2024-10-14 11:55:30'
+  },
+  {
+    'ApiTag': 'KQ',
+    'Value': 0,
+    'RecordTime': '2024-10-14 11:55:31'
+  },
+  {
+    'ApiTag': 'wd',
+    'Value': 24,
+    'RecordTime': '2024-10-14 11:55:32'
+  },
+  {
+    'ApiTag': 'SD',
+    'Value': 59,
+    'RecordTime': '2024-10-14 11:55:32'
+  },
+  {
+    'ApiTag': 'RT',
+    'Value': 0,
+    'RecordTime': '2024-10-14 11:55:33'
+  },
+  {
+    'ApiTag': 'DQY',
+    'Value': 10176,
+    'RecordTime': '2024-10-14 11:55:29'
+  },
+  {
+    'ApiTag': 'guangzhao',
+    'Value': '228.75',
+    'RecordTime': '2024-10-14 11:55:32'
+  },
+  {
+    'ApiTag': 'wendu',
+    'Value': '23.6481',
+    'RecordTime': '2024-10-14 11:55:33'
+  },
+  {
+    'ApiTag': 'shidu',
+    'Value': '58.6437',
+    'RecordTime': '2024-10-14 11:55:33'
+  },
+  {
+    'ApiTag': 'GPS',
+    'Value': '{"longitude":0.0,"latitude":0.0}',
+    'RecordTime': '2024-10-14 11:55:32'
+  },
+  {
+    'ApiTag': 'RGB5',
+    'Value': '0',
+    'RecordTime': '2024-10-14 11:55:30'
+  },
+  {
+    'ApiTag': 'RGB6',
+    'Value': '0',
+    'RecordTime': '2024-10-14 11:55:31'
+  },
+  {
+    'ApiTag': 'RGB7',
+    'Value': '0',
+    'RecordTime': '2024-10-14 11:55:32'
+  },
+  {
+    'ApiTag': 'LCD_Show',
+    'Value': '百叶箱温度:24.8℃\r\n百叶箱湿度:62.8%RH\r\n光照传感器:228.75',
+    'RecordTime': '2024-10-14 11:55:34'
+  },
+  {
+    'ApiTag': 'LED',
+    'Value': 0.0,
+    'RecordTime': '2024-10-14 11:55:34'
+  },
+  {
+    'ApiTag': 'FS',
+    'Value': 0.0,
+    'RecordTime': '2024-10-14 11:55:32'
+  },
+  {
+    'ApiTag': 'RGB',
+    'Value': 0.0,
+    'RecordTime': '2024-10-14 11:55:32'
+  },
+  {
+    'ApiTag': 'RGB2',
+    'Value': 0.0,
+    'RecordTime': '2024-10-14 11:55:32'
+  },
+  {
+    'ApiTag': 'RGB3',
+    'Value': 0.0,
+    'RecordTime': '2024-10-14 11:55:33'
+  },
+  {
+    'ApiTag': 'LED2',
+    'Value': 0.0,
+    'RecordTime': '2024-10-14 11:55:33'
+  }
+]
