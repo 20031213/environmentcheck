@@ -67,6 +67,6 @@ class CloudApi:
 
 if __name__ == '__main__':
     cloudapi = CloudApi()
-    cloudapi.resp_access_token('19912345638', '123456')
-    data = cloudapi.resp_get_device(1074613)
-    cloudapi.resp_cmd_device(1074613, 'LED', '1')
+    cloudapi.resp_access_token('', '')
+    data = cloudapi.resp_get_device(*)
+    cloudapi.resp_cmd_device(*, 'LED', '1')
